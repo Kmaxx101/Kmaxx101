@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Kmaxx101
+- 👋 Hi, I’m Kingsley 
 - 👀 I’m interested in data analysis 
 - 🌱 I’m currently learning Excell for beginners 
 - 💞️ I’m looking to collaborate on data analytics 
-- 📫 How to reach me on twitter @kingsley2_5
+- 📫 How to reach me: twitter @kingsley2_5
 - 😄
 - ⚡
 
